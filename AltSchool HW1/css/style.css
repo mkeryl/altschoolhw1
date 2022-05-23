@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100%;
+    text-align: center;
+   
+}
+li {
+    float:none;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px ;
+    text-decoration: none;
+    float: left;
+  }
+
+  li a:hover{
+      background-color: #111;
+  }
+
+
+  .bottompad{
+      padding-bottom: 20px;
+  }
+
+  .container{
+margin:20px 40px 20px 40px;
+
+  }
